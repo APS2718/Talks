@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1044827388646",
+    "project_id": "talktome-efb13",
+    "storage_bucket": "talktome-efb13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044827388646:android:661aff064b22cf79fb1927",
+        "android_client_info": {
+          "package_name": "com.example.talktome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044827388646-r3euei2sfehrn25lonpec5f7udd77riv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.talktome",
+            "certificate_hash": "1bb2b2c3b89e7e36fc6a4d19459e4f922efae8ec"
+          }
+        },
+        {
+          "client_id": "1044827388646-q9ctabs7dln88s8jdg9e2d4j3fler6tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJRl4lb0fxSKkpLmC8HEzTN4-Ow5Bo7cQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044827388646-q9ctabs7dln88s8jdg9e2d4j3fler6tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
